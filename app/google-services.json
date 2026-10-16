@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874773838753",
+    "project_id": "fir-class-practice-4f0d5",
+    "storage_bucket": "fir-class-practice-4f0d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874773838753:android:72cdb3469dca01516969e0",
+        "android_client_info": {
+          "package_name": "com.sahariya.firevisclasspractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tanxfXdIR3E5Vd4kDUC55kPx6Z08TUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
